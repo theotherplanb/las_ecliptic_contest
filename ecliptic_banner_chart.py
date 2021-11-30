@@ -18,7 +18,7 @@ eclpt_attrs = {  # SVG attributes of ecliptic line
 
 line_attrs = {  # SVG attributes of figure lines
     'stroke': '#f0e12c',  # from LAS logo
-    'stroke-width': '0.75',ff
+    'stroke-width': '0.75',
     'stroke-miterlimit': '4',
     'stroke-linecap': 'round',
 }
